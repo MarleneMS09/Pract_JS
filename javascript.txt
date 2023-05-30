@@ -1,3 +1,26 @@
 What is Javascript?
 JavaScript is a light-weigth, cross-platform object-oriented programming language
 Javascript is one of the 3 core technologies of web development 
+
+Basics of Programming language 
+
+Building Blocks of Programming Language:
+These are some of building blocks of a programming language:
+
+-Variables
+-Data Types
+-Operators
+-Expressions
+
+Variables: are used to store some data for later user. In other words, think of them as containers which hold whatever data you put inside them
+
+Operators: are symbols used to perform some actions on variables. JavaScript supports many operators like plus, minus, multiply, divide, comparison, etc.
+
+Program Flow: JavaScript executes the code at the time. If an error occcurs then the next line of code is no executed.
+
+Expression: is a line of code which contains a valid combination of variables, values and operators. 
+
+ Data Types: Data Types tells JavaScript what type of value we have stored in our variables. These are many data types in JS, these Number and String
+ are also data Types. JavaScript also has few other data types like Boolean, Null, Undefined, Objects, etc. 
+
+ 
