@@ -1,0 +1,3 @@
+What is Javascript?
+JavaScript is a light-weigth, cross-platform object-oriented programming language
+Javascript is one of the 3 core technologies of web development 
