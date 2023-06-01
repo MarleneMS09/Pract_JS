@@ -45,7 +45,7 @@ Which of these variables have valid names and variables have invalid names? Give
 
 
 1. &alpha1  
-This is a valid name because we can used the sign of $ when starting the variable
+This is a invalid name because we can,t use the sign of $ when starting the variable
 
 2. NUM1
 This is an invalid name because JS is a case sensitive this means we can't use only capital letters 
@@ -68,7 +68,7 @@ This is a valid name because we use letters and number
 
 7. super$$
 
-This is a valid name bcause we use letters and the sign $$ is valid
+This is a valid name because we use letters and the sign $$ is valid
 
 8. Object
 
